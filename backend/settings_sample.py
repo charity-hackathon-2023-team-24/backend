@@ -28,7 +28,7 @@ SECRET_KEY = "django-insecure-0gjl4g+mng69grm!f!w@e5#9heig3*9s76d%q8g@5$5i2a=_+$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["hackathon2023.mr-lemontree.site", "localhost"]
+ALLOWED_HOSTS = ["hackathon2023.mr-lemontree.site", "127.0.0.1", "localhost"]
 
 
 # Application definition
