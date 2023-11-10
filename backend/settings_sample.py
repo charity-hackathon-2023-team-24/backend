@@ -1,3 +1,4 @@
+# COPY THIS FILE TO SETTINGS.PY AND FILL IN DETAILS, DELETE THIS LINE
 """
 Django settings for backend project.
 
