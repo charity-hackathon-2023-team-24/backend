@@ -2,7 +2,7 @@
 
 Backend in Django that provides data to the front end via an API
 
-> [NOTE!]
+> [!NOTE]
 > It is currently not used because our MVP is not connected to any external data source.
 
 ## Installing and running locally
